@@ -1,3 +1,6 @@
+
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -9,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="viewport" content="initial-scale=1, maximum-scale=1">
     <!-- site metas -->
-    <title>lion</title>
+    <title>Linh's Bakery</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -20,7 +23,7 @@
     <!-- Responsive-->
     <link rel="stylesheet" href="css/responsive.css">
     <!-- fevicon -->
-    <link rel="icon" href="images/fevicon.png" type="image/gif" />
+    <link rel="icon" href="" type="image/gif" />
     <!-- Scrollbar Custom CSS -->
     <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
     <!-- Tweaks for older IEs-->
@@ -35,7 +38,7 @@
 <body class="main-layout">
     <!-- loader  -->
     <div class="loader_bg">
-        <div class="loader"><img src="images/loading.gif" alt="#" /></div>
+        <div class="loader"><img src="" alt="#" /></div>
     </div>
 
     <div class="wrapper">
@@ -58,13 +61,13 @@
                         <a href="#brand">Brands</a>
                     </li>
                     <li>
-                        <a href="#shoes">Shoes</a>
+                        <a href="#shoes">Powders</a>
                     </li>
                     <li>
-                        <a href="#jewellery">Jewellery</a>
+                        <a href="#jewellery">Cutlery</a>
                     </li>
                     <li>
-                        <a href="#kids">Kids and Babies</a>
+                        <a href="#kids">Others</a>
                     </li>
                 </ul>
 
@@ -85,7 +88,7 @@
                                     <div class="full">
                                         <div class="center-desk">
                                             <div class="logo">
-                                                <a href="index.html"><img src="images/logo.png" alt="#"></a>
+                                                <a href="index.html"><img src="" alt="#"></a>
                                             </div>
                                         </div>
                                     </div>
@@ -94,19 +97,19 @@
                                     <div class="right_header_info">
                                         <ul>
                                             <li class="menu_iconb">
-                                                <a href="#"><img style="margin-right: 15px;" src="icon/1.png" alt="#" />7213456789</a>
+                                                <a href="#"><img style="margin-right: 15px;" src="" alt="#" />7213456789</a>
                                             </li>
                                             <li class="menu_iconb">
-                                                <a href="#">Log in <img style="margin-right: 15px;" src="icon/5.png" alt="#" /> </a>
+                                                <a href="#">Log in <img style="margin-right: 15px;" src="" alt="#" /> </a>
                                             </li>
                                             <li class="menu_iconb">
-                                                <a href="#">Signup<img style="margin-left: 15px;" src="icon/6.png" alt="#" /></a>
+                                                <a href="#">Signup<img style="margin-left: 15px;" src="" alt="#" /></a>
                                             </li>
                                             <li class="tytyu">
-                                                <a href="#"> <img style="margin-right: 15px;" src="icon/2.png" alt="#" /></a>
+                                                <a href="#"> <img style="margin-right: 15px;" src="" alt="#" /></a>
                                             </li>
                                             <li class="menu_iconb">
-                                                <a href="#"><img style="margin-right: 15px;" src="icon/3.png" alt="#" /></a>
+                                                <a href="#"><img style="margin-right: 15px;" src="" alt="#" /></a>
                                             </li>
 
                                             <li>
@@ -134,7 +137,7 @@
                                         In<br>
                                         One <br>
                                         Shop</h1>
-                                            <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit</span>
+                                            <span>Where you find your best recipes for your cake.</span>
                                             <a href="#">Buy now</a>
                                         </div>
                                     </div>
@@ -152,7 +155,7 @@
                                                             <div class="row">
                                                                 <div class="col-md-12">
                                                                     <div class="img_bg">
-                                                                        <figure><img src="images/cap.png" /></figure>
+                                                                        <figure><img src="" /></figure>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -166,7 +169,7 @@
                                                             <div class="row">
                                                                 <div class="col-md-12">
                                                                     <div class="img_bg">
-                                                                        <figure><img src="images/cap.png" /></figure>
+                                                                        <figure><img src="" /></figure>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -180,7 +183,7 @@
                                                             <div class="row">
                                                                 <div class="col-md-12">
                                                                     <div class="img_bg">
-                                                                        <figure><img src="images/cap.png" /></figure>
+                                                                        <figure><img src="" /></figure>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -207,13 +210,13 @@
                                 <h2> Categories</h2>
                                 <ul class="categiri">
                                     <li class="active"><a href="#">Clothing</a></li>
-                                    <li><a href="#">Electronics</a></li>
-                                    <li><a href="#shoes">Shoes</a></li>
-                                    <li><a href="#">Watches</a></li>
-                                    <li><a href="#jewellery">Jewellery</a></li>
-                                    <li><a href="#">Health and Beauty</a></li>
-                                    <li><a href="#kids">Kids and Babies</a></li>
-                                    <li><a href="#">Sports</a></li>
+                                    <li><a href="#">Powders</a></li>
+                                    <li><a href="#shoes">Cuttlery</a></li>
+                                    <li><a href="#">Baking Machines</a></li>
+                                    <li><a href="#jewellery">Cheeses</a></li>
+                                    <li><a href="#">Healthy Ingredients</a></li>
+                                    <li><a href="#kids">Recipes for cake</a></li>
+                                    <li><a href="#">Diets</a></li>
                                     <li><a href="#">Home and Garden</a></li>
                                 </ul>
                             </div>
@@ -227,7 +230,7 @@
                             <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 margintop">
                                 <div class="brand-box">
                                     <h5>Sale</h5>
-                                    <i><img src="icon/p1.png"/>
+                                    <i><img src=""/>
                                 </i>
                                     <h4>Price $<span class="nolmal">100</span></h4>
 
@@ -236,21 +239,21 @@
                             </div>
                             <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 margintop">
                                 <div class="brand-box">
-                                    <i><img src="icon/p2.png"/></i>
+                                    <i><img src=""/></i>
                                     <h4>Price $<span class="nolmal">100</span></h4>
                                 </div>
                                 <a class="buynow" href="#">Buy now</a>
                             </div>
                             <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                                 <div class="brand-box">
-                                    <i><img src="icon/p1.png"/></i>
+                                    <i><img src=""/></i>
                                     <h4>Price $<span class="nolmal">100</span></h4>
                                 </div>
                                 <a class="buynow" href="#">Buy now</a>
                             </div>
                             <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                                 <div class="brand-box">
-                                    <i><img src="icon/p4.png"/></i>
+                                    <i><img src=""/></i>
                                     <h4>Price $<span class="nolmal">100</span></h4>
                                 </div>
                                 <a class="buynow" href="#">Buy now</a>
@@ -262,12 +265,12 @@
 
                     <!-- news shoes -->
                     <div id="shoes" class="shoes-bg">
-                        <h3>New shoes</h3>
+                        <h3>New recipes</h3>
                         <div class="row">
                             <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 margintop">
                                 <div class="shoes-box">
                                     <h5>Sale</h5>
-                                    <i><img src="icon/s1.png"/>
+                                    <i><img src=""/>
                                 </i>
                                     <h4>Price $<span class="nolmal">100</span></h4>
 
@@ -276,21 +279,21 @@
                             </div>
                             <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 margintop">
                                 <div class="shoes-box">
-                                    <i><img src="icon/s2.png"/></i>
+                                    <i><img src=""/></i>
                                     <h4>Price $<span class="nolmal">100</span></h4>
                                 </div>
                                 <a class="buynow" href="#">Buy now</a>
                             </div>
                             <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                                 <div class="shoes-box">
-                                    <i><img src="icon/s3.png"/></i>
+                                    <i><img src=""/></i>
                                     <h4>Price $<span class="nolmal">100</span></h4>
                                 </div>
                                 <a class="buynow" href="#">Buy now</a>
                             </div>
                             <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                                 <div class="shoes-box">
-                                    <i><img src="icon/s4.png"/></i>
+                                    <i><img src=""/></i>
                                     <h4>Price $<span class="nolmal">100</span></h4>
                                 </div>
                                 <a class="buynow" href="#">Buy now</a>
@@ -306,8 +309,8 @@
  
     <!-- end Categories -->
     
-    <section>
-        <!--  save -->
+<!--    <section>
+          save 
 
     <div class="container">
         <div class="row">
@@ -325,8 +328,8 @@
             </div>
         </div>
     </div>
-    <!-- end save -->
-    </section>
+     end save 
+    </section>-->
 
     <!-- news Jewellery -->
     <div class="container">
@@ -338,7 +341,7 @@
                         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 margintop">
                             <div class="Jewellery-box">
                                 <h5>Sale</h5>
-                                <i><img src="icon/j1.png"/>
+                                <i><img src=""/>
                                 </i>
                                 <h4>Price $<span class="nolmal">100</span></h4>
 
@@ -347,21 +350,21 @@
                         </div>
                         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 margintop">
                             <div class="Jewellery-box">
-                                <i><img src="icon/j2.png"/></i>
+                                <i><img src=""/></i>
                                 <h4>Price $<span class="nolmal">100</span></h4>
                             </div>
                             <a class="buynow" href="#">Buy now</a>
                         </div>
                         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                             <div class="Jewellery-box">
-                                <i><img src="icon/j3.png"/></i>
+                                <i><img src=""/></i>
                                 <h4>Price $<span class="nolmal">100</span></h4>
                             </div>
                             <a class="buynow" href="#">Buy now</a>
                         </div>
                         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                             <div class="Jewellery-box">
-                                <i><img src="icon/j4.png"/></i>
+                                <i><img src=""/></i>
                                 <h4>Price $<span class="nolmal">100</span></h4>
                             </div>
                             <a class="buynow" href="#">Buy now</a>
@@ -385,7 +388,7 @@
                             <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 margintop">
                                 <div class="Kids-box">
 
-                                    <i><img src="icon/k1.png"/>
+                                    <i><img src=""/>
                                 </i>
                                     <h4>Price $<span class="nolmal">100</span></h4>
 
@@ -393,19 +396,19 @@
                             </div>
                             <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 margintop">
                                 <div class="Kids-box">
-                                    <i><img src="icon/k1.png"/></i>
+                                    <i><img src=""/></i>
                                     <h4>Price $<span class="nolmal">100</span></h4>
                                 </div>
                             </div>
                             <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                                 <div class="Kids-box">
-                                    <i><img src="icon/k1.png"/></i>
+                                    <i><img src=""/></i>
                                     <h4>Price $<span class="nolmal">100</span></h4>
                                 </div>
                             </div>
                             <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                                 <div class="Kids-box">
-                                    <i><img src="icon/k1.png"/></i>
+                                    <i><img src=""/></i>
                                     <h4>Price $<span class="nolmal">100</span></h4>
                                 </div>
                             </div>
@@ -427,7 +430,7 @@
                         <div class="footer_top">
                             <div class="row">
                                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                    <a href="index.html"> <img class="logo1" src="images/logo1.png" /></a>
+                                    <a href="index.html"> <img class="logo1" src="" /></a>
                                 </div>
                                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                     <ul class="sociel">
@@ -449,12 +452,12 @@
                                     <h3>Contact us </h3>
                                     <ul class="loca">
                                         <li>
-                                            <a href="#"><img src="icon/loc.png" alt="#" /></a>145 londone
+                                            <a href="#"><img src="" alt="#" /></a>145 london
                                             <br>uk </li>
                                         <li>
-                                            <a href="#"><img src="icon/call.png" alt="#" /></a>+12586954775 </li>
+                                            <a href="#"><img src="" alt="#" /></a>+12586954775 </li>
                                         <li>
-                                            <a href="#"><img src="icon/email.png" alt="#" /></a>demo@gmail.com </li>
+                                            <a href="#"><img src="" alt="#" /></a>demo@gmail.com </li>
 
                                     </ul>
 
@@ -488,7 +491,7 @@
                             <div class="col-lg-3 col-md-6 col-sm-6 ">
                                 <div class="address">
                                     <h3>why choose us</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna </p>
+                                    <p>Where you find the best ingredients for your cake!</p>
                                     <form class="newtetter">
                                         <input class="tetter" placeholder="Your email" type="text" name="Your email">
                                         <button class="submit">Subscribe</button>
@@ -502,7 +505,7 @@
            
             <div class="copyright"> 
                 <div class="container">
-                <p>Copyright 2019 All Right Reserved By <a href="https://html.design/">Free html Templates</a></p>
+               
             </div>
           </div>
         </div>
@@ -573,7 +576,7 @@
                 },
             });
 
-            var image = 'images/maps-and-flags.png';
+            var image = '';
             var beachMarker = new google.maps.Marker({
                 position: {
                     lat: 40.645037,
